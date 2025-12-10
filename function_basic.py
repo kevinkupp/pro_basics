@@ -1,3 +1,6 @@
+"""Basic function exercises."""
+import math
+
 def print_hello():
     """Print "hello"."""
     print("Hello")
